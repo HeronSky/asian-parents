@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "type": "single",
+        "question": "爸媽突然關心：『你到底什麼時候要結婚？』",
+        "options": [
+            {"text": "『結什麼婚？我一個人爽得很，別來煩我！』", "effects": {"Rebellion": 3}},
+            {"text": "『結婚是我的私事，我自有規劃，不用你們操心。』", "effects": {"Assertiveness": 3}},
+            {"text": "『我知道你們擔心我，有好消息一定第一個告訴你們！』", "effects": {"EQ": 2, "Tradition": 2}},
+            {"text": "『緣分很難說啦。欸對了，聽說隔壁王阿姨的兒子...』", "effects": {"Tactics": 3, "EQ": 1}}
+        ]
+    },
+    {
+        "id": 2,
+        "type": "single",
+        "question": "家裡聚餐，親戚笑著問你薪水多少。",
+        "options": [
+            {"text": "『問這個很沒禮貌耶。』", "effects": {"Rebellion": 2, "Assertiveness": 2}},
+            {"text": "『就餓不死，還過得去啦。』", "effects": {"Pragmatism": 2, "EQ": 1, "Tactics": 1}},
+            {"text": "『沒有啦就賺個辛苦錢，跟表哥比差遠了，要多向他學習！』", "effects": {"EQ": 2, "Tradition": 1, "Tactics": 1}},
+            {"text": "『薪資是個人隱私，我們還是聊點別的吧。』", "effects": {"Assertiveness": 2, "Tactics": 1}}
+        ]
+    },
+    {
+        "id": 3,
+        "type": "single",
+        "question": "爸媽興沖沖地說要幫你安排相親。",
+        "options": [
+            {"text": "『好啊，先看看照片，正不正？』", "effects": {"Pragmatism": 2, "Tactics": 1}},
+            {"text": "『你們的眼光我信不過，我自己來就好。』", "effects": {"Rebellion": 2, "Assertiveness": 1}},
+            {"text": "『我的感情生活不需要別人插手。』", "effects": {"Assertiveness": 3}},
+            {"text": "『謝謝你們的好意，但我真的沒興趣。』", "effects": {"EQ": 2, "Tactics": 2}}
+        ]
+    },
+    {
+        "id": 4,
+        "type": "single",
+        "question": "爸媽暗示：『什麼時候帶另一半回家看看？』",
+        "options": [
+            {"text": "『我帶我的貓回來可以嗎？牠是我的摯愛。』", "effects": {"Rebellion": 2, "EQ": 1, "Tactics": 1}},
+            {"text": "『也要有對象才能帶啊！』", "effects": {"Tactics": 2, "Pragmatism": 1, "EQ": 1}},
+            {"text": "『你們想看誰？我現在去租一個。』", "effects": {"Tradition": 2, "EQ": 1, "Assertiveness": 1}},
+            {"text": "『就還單身啊，別再問了啦。』", "effects": {"Assertiveness": 2, "Pragmatism": 1, "Tactics": 1}}
+        ]
+    },
+    {
+        "id": 5,
+        "type": "single",
+        "question": "爸媽語重心長地說：『該存錢買房了吧？』",
+        "options": [
+            {"text": "『好啊，等我這期樂透中了就去買。』", "effects": {"Rebellion": 2, "Tactics": 1, "Pragmatism": 1}},
+            {"text": "『現在房價比天高，先租房卡實在。』", "effects": {"Pragmatism": 2, "Assertiveness": 1, "EQ": 1}},
+            {"text": "『有在存啦，但頭期款還很遙遠...』", "effects": {"Tradition": 2, "EQ": 1, "Tactics": 1}},
+            {"text": "『好啊，那你們要贊助多少？』", "effects": {"EQ": 2, "Tactics": 1, "Assertiveness": 1}}
+        ]
+    },
+    {
+        "id": 6,
+        "type": "single",
+        "question": "爸媽勸你：『去考個公務員比較穩定啦。』",
+        "options": [
+            {"text": "『嗯...聽起來不錯，我會考慮看看。』", "effects": {"Tradition": 2, "Pragmatism": 1, "EQ": 1}},
+            {"text": "『我的人生不想這麼安逸，想出去闖闖。』", "effects": {"Rebellion": 2, "Assertiveness": 1, "Tactics": 1}},
+            {"text": "『先讓我找到自己的興趣比較重要吧。』", "effects": {"Tactics": 2, "EQ": 1, "Pragmatism": 1}},
+            {"text": "『好啦，我會努力，不會讓你們失望的。』", "effects": {"EQ": 2, "Tradition": 1, "Assertiveness": 1}}
+        ]
+    },
+    {
+        "id": 7,
+        "type": "single",
+        "question": "親戚聚會，三姑六婆問你什麼時候升職。",
+        "options": [
+            {"text": "『不急不急，慢慢來比較快。』", "effects": {"Tactics": 2, "Pragmatism": 1, "EQ": 1}},
+            {"text": "『快了快了，我會努力讓大家看到的！』", "effects": {"Assertiveness": 2, "EQ": 1, "Tradition": 1}},
+            {"text": "『升職其次啦，活得開心最重要。』", "effects": {"Pragmatism": 2, "Tactics": 1, "Rebellion": 1}},
+            {"text": "『等我當上老闆，再請大家吃飯！』", "effects": {"Rebellion": 2, "Assertiveness": 1, "EQ": 1}}
+        ]
+    },
+    {
+        "id": 8,
+        "type": "single",
+        "question": "爸媽突然說：『不然...回家裡幫忙事業吧？』",
+        "options": [
+            {"text": "『好啊，家裡需要我的話，我隨時可以回去。』", "effects": {"Tradition": 2, "EQ": 1, "Pragmatism": 1}},
+            {"text": "『我想趁年輕，在外面的世界多看看。』", "effects": {"Rebellion": 2, "Assertiveness": 1, "Tactics": 1}},
+            {"text": "『不然我先兼職幫忙，兩邊都試試看？』", "effects": {"Tactics": 2, "EQ": 1, "Pragmatism": 1}},
+            {"text": "『謝謝你們這麼信任我，我會認真考慮。』", "effects": {"EQ": 2, "Tradition": 1, "Assertiveness": 1}}
+        ]
+    },
+    {
+        "id": 9,
+        "type": "single",
+        "question": "爸媽提議：『我們家好像很久沒一起出國玩了喔？』",
+        "options": [
+            {"text": "『好耶！我來研究行程！』", "effects": {"Pragmatism": 2, "Tactics": 1, "EQ": 1}},
+            {"text": "『大家想去哪？我們來開個家庭會議！』", "effects": {"EQ": 2, "Tradition": 1, "Assertiveness": 1}},
+            {"text": "『最近工作有點忙，過一陣子好嗎？』", "effects": {"Tactics": 2, "Assertiveness": 1, "Rebellion": 1}},
+            {"text": "『我也想啊，但口袋空空，等我發財再說。』", "effects": {"Rebellion": 2, "Pragmatism": 1, "EQ": 1}}
+        ]
+    },
+    {
+        "id": 10,
+        "type": "single",
+        "question": "哥哥姐姐臨時有事，爸媽要你幫忙帶一下小孩。",
+        "options": [
+            {"text": "『沒問題，小寶貝交給我！』", "effects": {"EQ": 2, "Tradition": 1, "Assertiveness": 1}},
+            {"text": "『可以啊，不過要先跟我約時間喔。』", "effects": {"Tactics": 2, "Pragmatism": 1, "EQ": 1}},
+            {"text": "『我不太會帶耶，你們要在旁邊教我喔。』", "effects": {"Pragmatism": 2, "EQ": 1, "Assertiveness": 1}},
+            {"text": "『我怕把他帶壞，還是算了吧...』", "effects": {"Rebellion": 2, "Tactics": 1, "EQ": 1}}
+        ]
+    },
+    {
+        "id": 11,
+        "type": "single",
+        "question": "爸媽看你整天在滑抖音，忍不住唸你『不務正業』。",
+        "options": [
+            {"text": "『這是在吸收新知啦！』", "effects": {"Tactics": 2, "EQ": 1, "Pragmatism": 1}},
+            {"text": "『休息是為了走更長遠的路嘛。』", "effects": {"Assertiveness": 2, "Pragmatism": 1, "EQ": 1}},
+            {"text": "『好啦好啦，我滑完這則就關。』", "effects": {"Tradition": 2, "EQ": 1, "Tactics": 1}},
+            {"text": "『這您就不懂了，現在這最紅。』", "effects": {"Rebellion": 2, "Assertiveness": 1, "EQ": 1}}
+        ]
+    },
+    {
+        "id": 12,
+        "type": "single",
+        "question": "親戚說：『你看隔壁小王都買新車了，你呢？』",
+        "options": [
+            {"text": "『真好，我還在努力存錢。』", "effects": {"EQ": 2, "Tactics": 1, "Pragmatism": 1}},
+            {"text": "『我的人生規劃跟他不一樣啦。』", "effects": {"Assertiveness": 2, "EQ": 1, "Tactics": 1}},
+            {"text": "『對啊，他好厲害，我也要加油。』", "effects": {"Tradition": 2, "Pragmatism": 1, "EQ": 1}},
+            {"text": "『台北搭捷運比較方便啦，買車還要養。』", "effects": {"Rebellion": 2, "Pragmatism": 1, "Assertiveness": 1}}
+        ]
+    },
+    {
+        "id": 13,
+        "type": "single",
+        "question": "媽媽打來抱怨：『你怎麼都沒打電話回家？』",
+        "options": [
+            {"text": "『媽對不起，我太忙了，等等就打給妳。』", "effects": {"Tradition": 2, "EQ": 2, "Tactics": 1}},
+            {"text": "『雖然很忙，但我心裡一直都想著你們啊。』", "effects": {"EQ": 2, "Tactics": 1, "Pragmatism": 1}},
+            {"text": "『我們不是有LINE嗎？直接視訊更快啦！』", "effects": {"Pragmatism": 2, "Assertiveness": 1, "EQ": 1}},
+            {"text": "『現在都用傳訊息的啊，誰還在打電話。』", "effects": {"Rebellion": 1, "Pragmatism": 2, "Assertiveness": 1}}
+        ]
+    },
+    {
+        "id": 14,
+        "type": "single",
+        "question": "爸爸突然一臉嚴肅地問：『你到底有沒有在存錢？』",
+        "options": [
+            {"text": "『有啦，每個月都有乖乖存起來。』", "effects": {"Tradition": 2, "Pragmatism": 2, "EQ": 1}},
+            {"text": "『有在學啦，理財好難喔。』", "effects": {"EQ": 2, "Tactics": 1, "Pragmatism": 1}},
+            {"text": "『錢夠用就好，存那麼多壓力很大耶。』", "effects": {"Rebellion": 2, "Assertiveness": 1, "Pragmatism": 1}},
+            {"text": "『我有在投資啦，眼光要放遠一點。』", "effects": {"Assertiveness": 2, "Pragmatism": 2, "EQ": 1}}
+        ]
+    },
+    {
+        "id": 15,
+        "type": "single",
+        "question": "家族聚餐，長輩圍著你問對未來的規劃。",
+        "options": [
+            {"text": "『還在摸索啦，會繼續努力，請大家多指教。』", "effects": {"Tradition": 2, "EQ": 2, "Tactics": 1}},
+            {"text": "『想先把現在的工作做好，站穩腳步再說。』", "effects": {"Pragmatism": 2, "EQ": 1, "Tactics": 1}},
+            {"text": "『我心裡有底了，正在一步一步實現。』", "effects": {"Assertiveness": 2, "Rebellion": 1, "EQ": 1}},
+            {"text": "『人生嘛，計畫永遠趕不上變化，隨緣啦！』", "effects": {"Rebellion": 2, "Tactics": 1, "Pragmatism": 1}}
+        ]
+    }
+]
