@@ -1,0 +1,40 @@
+{
+  "dimensions": {
+    "EQ": "高情商溝通",
+    "Tactics": "迂迴戰術",
+    "Tradition": "傳統孝道",
+    "Pragmatism": "務實主義",
+    "Assertiveness": "正面硬剛",
+    "Rebellion": "叛逆精神"
+  },
+  "archetypes": {
+    "EQ": {
+      "title": "溝通藝術家",
+      "description": "你擅長用言語化解危機，總能讓父母滿意又不失自己立場。"
+    },
+    "Tactics": {
+      "title": "戰術大師",
+      "description": "你懂得迂迴前進，聲東擊西，總能巧妙達成目的。"
+    },
+    "Tradition": {
+      "title": "傳統守護者",
+      "description": "你深諳孝道，總能預判父母的需求，是他們眼中的乖孩子。"
+    },
+    "Pragmatism": {
+      "title": "務實主義者",
+      "description": "你注重實際，用成果說話，讓父母無話可說。"
+    },
+    "Assertiveness": {
+      "title": "勇敢的戰士",
+      "description": "你敢於正面表達自己的想法，不畏懼衝突，堅持自我。"
+    },
+    "Rebellion": {
+      "title": "叛逆的靈魂",
+      "description": "你挑戰權威，不受傳統束縛，走出自己的路。"
+    },
+    "default": {
+      "title": "平衡的生存者",
+      "description": "你在各種策略中取得平衡，是一位靈活的家庭生存者。"
+    }
+  }
+}
